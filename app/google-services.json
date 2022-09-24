@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "553532244551",
+    "firebase_url": "https://aran-project-2feb0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aran-project-2feb0",
+    "storage_bucket": "aran-project-2feb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553532244551:android:a89175c80426b3cd652762",
+        "android_client_info": {
+          "package_name": "com.example.user.smarthomeaution.aran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553532244551-2mr14ue7tfsqgimfqscpkvdt0h6epslt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcW3vx21pEOLT1plPtbuOLsxCjGuGBC1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553532244551-2mr14ue7tfsqgimfqscpkvdt0h6epslt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
